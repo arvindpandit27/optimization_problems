@@ -2,7 +2,7 @@
 
 Super simple! Set up workspace by going into the root folder and:
 
-`python3 -m env env`
+`python3 -m venv env`
 
 `source env/bin/activate`
 
