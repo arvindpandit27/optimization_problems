@@ -1,6 +1,6 @@
-# Read Me
+# How to start working with this repo?
 
-Set up workspace by:
+Super simple! Set up workspace by:
 
 `source env/bin/activate`
 
