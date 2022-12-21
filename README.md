@@ -1,8 +1,6 @@
 # How to start working with this repo?
 
-Super simple! Set up workspace by:
-
-`cd Optimization_Problems`
+Super simple! Set up workspace by going into the root folder and:
 
 `python3 -m env env`
 
